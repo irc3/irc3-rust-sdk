@@ -1,0 +1,12 @@
+[package]
+name = "irc3-sdk"
+version = "0.0.1"
+edition = "2021"
+"license-file" = "LICENSE"
+description = "IRC3 = IRC + Web3"
+homepage = "https://irc3.io"
+repository = "https://github.com/irc3/irc3-rust-sdk"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
